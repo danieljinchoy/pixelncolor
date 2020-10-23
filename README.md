@@ -1,2 +1,2 @@
 # pixelncolor
-PnC (Pixcel&amp;Color) Projects // html, css
+PnC Projects // html, css
